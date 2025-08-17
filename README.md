@@ -1,4 +1,4 @@
-# excel-ecommerce-data-cleaning
+# excel-ecommerce-data
 
 # 🛍 Excel Case Study: Preparing E-commerce Data for Marketing & Product Analytics
 
