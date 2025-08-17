@@ -73,10 +73,10 @@ Functions used: IFs, nested IFs, VLOOKUPs, WEEKDAY, TODAY, etc.
 
 
 * Added derived columns in Orders:
-    Scheduled Delivery Date (calculated from shipping days)
-    On-Time Priority Deliveries flag
-    Order Total Sales (corrected sales after discounts)
-    Cash Payments categories (Cash Over 200, Cash Not Over 200, Non-Cash)
+    Scheduled Delivery Date (calculated from shipping days),
+    On-Time Priority Deliveries flag,
+    Order Total Sales (corrected sales after discounts),
+    Cash Payments categories (Cash Over 200, Cash Not Over 200, Non-Cash).
 
 <img width="887" height="276" alt="Orders_added_columns" src="https://github.com/user-attachments/assets/92db916f-464f-44fe-b144-71f0749863b5" />
 
