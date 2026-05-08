@@ -129,8 +129,6 @@ Cleats, Cardio Equipment, Women's Apparel drive a large share of revenue across 
 Same-Day Shipping achieves a 100% on-time delivery rate, while Standard delivery stands at 70% and Second Class at only 17%. The majority of revenue is driven by Standard and Second Class delivery orders. Therefore, improving the reliability of these delivery types could potentially drive higher revenue and reduce order cancellations, though this remains a hypothesis as no cancellation data is available in this dataset.
 ![Pic](screenshots/Power_bi_8.png)
 
-Saturdays show peak sales, especially in electronics → opportunity for weekend promotions overall.
-
 
 ## 🛠 Excel Skills Demonstrated
 | **Category**                        | **Skills Demonstrated**                                                                                                                                                                           |
