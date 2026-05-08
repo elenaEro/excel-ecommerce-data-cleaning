@@ -105,12 +105,18 @@ Created PivotTables to answer key business questions:
 <img width="344" height="171" alt="Pivot_table_payment_breakdown" src="https://github.com/user-attachments/assets/3958da80-edbb-4d11-a91c-f0678a772e64" />
 
 ---
-## 📊 Business Insights
+## 📊 Business Insights with visualisations in Power bi
 
-* Saturdays show peak sales, especially in electronics → opportunity for weekend promotions
-* Footwear & Electronics drive a large share of revenue → focus categories for product strategy
-* Cash Over $200 orders make up ~10% of transactions → highlight for finance/risk teams
-* Same-Day Shipping has ~85% on-time delivery rate → operations performing well, but Standard Shipping lags
+Cleats, Cardio Equipment, Women's Apparel drive a large share of revenue across all regions, making them key focus categories for product strategy. In Europe, Sports Equipment is also an important driver of revenue, particularly on Saturdays.
+![Pic](screenshots/Power_bi_7.png)
+
+Cash orders over $200 make up approximately 10% of transactions and around 11% of total revenue. This is worth highlighting for finance and risk teams, as it may warrant closer monitoring or policy review.
+
+Same-Day Shipping achieves a 100% on-time delivery rate, while Standard delivery stands at 70% and Second Class at only 17%. The majority of revenue is driven by Standard and Second Class delivery orders. Therefore, improving the reliability of these delivery types could potentially drive higher revenue and reduce order cancellations, though this remains a hypothesis as no cancellation data is available in this dataset.
+![Pic](screenshots/Power_bi_8.png)
+
+Saturdays show peak sales, especially in electronics → opportunity for weekend promotions overall.
+
 
 ## 🛠 Excel Skills Demonstrated
 | **Category**                        | **Skills Demonstrated**                                                                                                                                                                           |
