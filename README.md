@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This project demonstrates how I cleaned, transformed, and analysed raw e-commerce sales, product, and customer data using Excel.
+This project demonstrates how I cleaned, transformed, and analysed raw e-commerce sales, product, and customer data using Excel.  
 
 The objective was to prepare a clean, structured dataset that enables business insights on customers, products, sales trends, and delivery performance.
 
@@ -13,6 +13,7 @@ The final file includes:
 * Derived columns for analysis (addresses, delivery dates, payment flags)
 * PivotTables summarising sales performance
 * Business insights relevant to marketing, product management, and operations
+* Visualisations in Power BI
 
 ---
 
