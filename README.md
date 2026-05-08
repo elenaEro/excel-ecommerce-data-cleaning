@@ -122,7 +122,7 @@ Cash orders over $200 make up approximately 10% of transactions and around 11% o
 Cleats, Cardio Equipment, Women's Apparel drive a large share of revenue across all regions, making them key focus categories for product strategy. In Europe (see the pivot table above), Sports Equipment is also an important driver of revenue, particularly on Saturdays.
 
 
-![Pic](screenshots/Power_bi_7.png)
+![Pic](screenshots/Power_bi_9.png)
 
 
 
